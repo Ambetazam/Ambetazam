@@ -1,15 +1,15 @@
 # Hello, I'm Jean Steven 👋
 
-**Systems Engineering Student • Software Engineer • Information Security Researcher • AI Developer • IT and Open Source Enthusiast**
+** Full Stack Software Web Application Developer * Systems Engineer Student • Information Security Researcher • AI Developer • IT and Open Source Enthusiast**
 
 Welcome to my GitHub profile.
 
 I am passionate about building secure, scalable, and educational technologies through software engineering, cybersecurity, artificial intelligence, mathematics, and open-source collaboration.
 
 ## 🔭 Current Focus
-
-- Information Security research and security tooling
-- Backend development and system architecture
+- Linux Professional Institute
+- Information Security research and Tooling
+- Backend development and System Architecture
 - Artificial intelligence and automation
 - Linux infrastructure and DevOps
 - Open-source software development
