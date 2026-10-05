@@ -1,4 +1,4 @@
-<a href="https://ambetazam.github.io/"> cyberalchemist@ambetazam:~$ whoami </a>
+# cyberalchemist@ambetazam:~$ whoami
 
 <p align="center">
   <img
