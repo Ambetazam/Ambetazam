@@ -1,63 +1,59 @@
-# Hello, I'm Jean Steven 👋
+# `cyberalchemist@ambetazam.github.io:~$ whoami`
 
-** Full Stack Software Web Application Developer * Systems Engineer Student • Information Security Researcher • AI Developer • IT and Open Source Enthusiast**
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=080808&height=120&section=header&text=JEAN%20CASTANEDA&fontColor=ffffff&fontSize=38&fontAlignY=55&desc=Systems%20Engineering%20%7C%20Software%20%7C%20Cybersecurity%20%7C%20AI&descAlignY=78&descSize=14"
+    alt="Jean Steven"
+  />
+</p>
 
-Welcome to my GitHub profile.
+<p align="center">
+  <code>Systems Engineering Student</code> •
+  <code>Software Engineer</code> •
+  <code>Cybersecurity Researcher</code> •
+  <code>AI Developer</code> •
+  <code>Open Source Enthusiast</code>
+</p>
 
-I am passionate about building secure, scalable, and educational technologies through software engineering, cybersecurity, artificial intelligence, mathematics, and open-source collaboration.
+<p align="center">
+  <a href="https://ambetazam.github.io">
+    <img src="https://img.shields.io/badge/PORTFOLIO-080808?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/Ambetazam">
+    <img src="https://img.shields.io/badge/GITHUB-080808?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-## 🔭 Current Focus
-- Linux Professional Institute
-- Information Security research and Tooling
-- Backend development and System Architecture
-- Artificial intelligence and automation
-- Linux infrastructure and DevOps
-- Open-source software development
+---
 
-## 🛡️ Infosec:
+## `$ cat about.txt`
 
-Interested in:
+```text
+Jean Steven
+──────────────────────────────────────────────
 
-- Network security
-- Threat modeling
-- OSINT
-- Secure software development
-- Digital forensics
+Systems Engineering student focused on building,
+understanding and securing software systems.
 
-## 🤖 Artificial Intelligence
+Interests:
 
-Exploring:
+  [01] Software Engineering
+  [02] Linux & Systems
+  [03] Cybersecurity Research
+  [04] Artificial Intelligence
+  [05] Developer Tools
+  [06] Open Source
+  [07] Infrastructure & Homelabs
+  [08] Music Technology
 
-- Local AI systems
-- AI assistants
-- Multi-agent architectures
-- Automation workflows
+Philosophy:
 
-## ⚙️ Engineering
+  < Learn the system.
+  < Understand the system.
+  < Build the system.
+  < Break the system.
+  < Secure the system.
 
-Technologies:
-
-- Python
-- Java
-- JavaScript / TypeScript
-- SQL
-- Linux
-- Docker
-- Git
-- PostgreSQL
-
-## 🎵 Music Technology
-
-Exploring the intersection between:
-
-- Music theory
-- Software engineering
-- Digital composition
-- Audio technology
-
-## 🌱 Philosophy
-
-> Build knowledge. Share knowledge. Improve continuously.
 > [....]
 > Ahora este es nuestro mundo...
 > El mundo del electrón y el conmutador, la belleza del baudio.
@@ -83,7 +79,5 @@ Exploring the intersection between:
 > Soy un Hacker, este es mi manifiesto.
 > Tu podrás detener este esfuerzo individual, pero nunca podrás detenernos a todos...
 > después de todo, todos somos iguales.
-> L...J
+> [...]
 > Extracto de texto del Manifiesto de un Hacker
-
-Thanks for visiting my profile!
