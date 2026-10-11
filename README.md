@@ -1,6 +1,6 @@
 ## `station00X0@planet.earth:~$`
 ## `station00X0@planet.earth:~$`
-## `station00X0@planet.earth:~$whoami`
+## `station00X0@planet.earth:~$ whoami`
 
 <p align="center">
   <img
