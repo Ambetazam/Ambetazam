@@ -1,8 +1,10 @@
-# cyberalchemist@ambetazam:~$ whoami
+# station00X0@planet.earth:~$ 
+# station00X0@planet.earth:~$ 
+# station00X0@planet.earth:~$ whoami
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=080808&height=120&section=header&text=JEAN%20STEVEN&fontColor=ffffff&fontSize=38&fontAlignY=55&desc=Systems%20Engineering%20%7C%20Software%20%7C%20Cybersecurity%20%7C%20AI&descAlignY=78&descSize=14"
+    src="https://capsule-render.vercel.app/api?type=rect&color=080808&height=120&section=header&text=AMBET%20AZAM&fontColor=ffffff&fontSize=53&fontAlignY=55&desc=Systems%20Engineering%20%7C%20Software%20%7C%20Cybersecurity%20%7C%20AI&descAlignY=78&descSize=14"
     alt="Jean Steven"
   />
 </p>
@@ -25,11 +27,11 @@
 </p>
 
 ---
-
-## `$ cat about.txt`
+## `station00X0@planet.earth:~$
+## `station00X0@planet.earth:~$ cat about.txt`
 
 ```text
-Jean Steven
+Ambet Azam
 ──────────────────────────────────────────────
 
 Systems Engineering student focused on building,
@@ -43,7 +45,7 @@ Interests:
   [04] Artificial Intelligence
   [05] Developer Tools
   [06] Open Source
-  [07] Infrastructure & Homelabs
+  [07] Infrastructure & DevOps
   [08] Music Technology
 
 Philosophy:
