@@ -1,6 +1,6 @@
-<a href="https://ambetazam.github.io"># station00X0@planet_earth:~$ </a>
-<a href="https://ambetazam.github.io"># station00X0@planet_earth:~$ </a>
-<a href="https://ambetazam.github.io"># station00X0@planet_earth:~$ </a>whoami
+## `station00X0@planet.earth:~$`
+## `station00X0@planet.earth:~$`
+## `station00X0@planet.earth:~$whoami`
 
 <p align="center">
   <img
@@ -27,7 +27,7 @@
 </p>
 
 ---
-## `station00X0@planet.earth:~$
+## `station00X0@planet.earth:~$`
 ## `station00X0@planet.earth:~$ cat about.txt`
 
 ```text
