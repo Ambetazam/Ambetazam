@@ -77,7 +77,6 @@ Philosophy:
 > Mi crimen es la curiosidad.
 > Mi crimen es el juzgar a las personas por lo que dicen y piensan,
 > no por lo que aparentan.
-> Mi crimen es ser más inteligente, algo por lo cual nunca me olvidarás.
 > Soy un Hacker, este es mi manifiesto.
 > Tu podrás detener este esfuerzo individual, pero nunca podrás detenernos a todos...
 > después de todo, todos somos iguales.
