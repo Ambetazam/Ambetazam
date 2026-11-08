@@ -1,5 +1,4 @@
-## `station00X0@planet.earth:~$`
-## `station00X0@planet.earth:~$`
+
 ## `station00X0@planet.earth:~$ whoami`
 
 <p align="center">
@@ -10,14 +9,14 @@
 </p>
 
 <p align="center">
-  <code>Systems Engineering Student</code> •
-  <code>Software Engineer</code> •
-  <code>Cybersecurity Researcher</code> •
+  <code>Software Engineering · DevOps · DevSecOps</code> •
+  <code>Software Developer Engineer</code> •
+  <code>Information Security Researcher</code> •
   <code>AI Developer</code> •
   <code>Open Source Enthusiast</code>
 </p>
 
-<p align="center">
+<h2><p align="center">
   <a href="https://ambetazam.github.io">
     <img src="https://img.shields.io/badge/PORTFOLIO-080808?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
@@ -25,9 +24,9 @@
     <img src="https://img.shields.io/badge/GITHUB-080808?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
+</h2>
 ---
-## `station00X0@planet.earth:~$`
+
 ## `station00X0@planet.earth:~$ cat about.txt`
 
 Ambet Azam
