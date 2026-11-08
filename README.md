@@ -10,7 +10,6 @@
 
 <p align="center">
   <code>Software Engineering</code> •
-  <code>DevOps/code> •
   <code>DevSecOps</code> •
   <code>Software Developer Engineer</code> •
   <code>Information Security Researcher</code> •
