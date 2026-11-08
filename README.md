@@ -33,23 +33,10 @@
 Ambet Azam
 ──────────────────────────────────────────────
 
-          Systems Engineering student focused on building,
-          understanding and securing software systems.
+         Software engineer focused on secure software development,
+         infrastructure automation, cloud and AI technologies and
+         application security.
           
-          Interests:
-          
-            [01] Software Engineering
-            [02] Linux & Systems
-            [03] Cybersecurity Research
-            [04] Artificial Intelligence
-            [05] Developer Tools
-            [06] Open Source
-            [07] Infrastructure & DevOps
-            [08] Music Technology
-          
+                    
 Philosophy: Thanks to God!!!
 ______________________________________________
-** Socrates::Platon::Aristotoles::Pitagoras::Cristo.hijo.de.Mariam. and many others ::
-> [....]
-> Ahora este es nuestro mundo...
-> El mundo del electrón y el conmutador, la belleza del baudio...
