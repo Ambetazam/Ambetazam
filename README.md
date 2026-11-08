@@ -3,13 +3,15 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=080808&height=120&section=header&text=AMBET%20AZAM&fontColor=ffffff&fontSize=53&fontAlignY=55&desc=Systems%20Engineering%20%7C%20Software%20%7C%20Cybersecurity%20%7C%20AI&descAlignY=78&descSize=14"
+    src="https://capsule-render.vercel.app/api?type=rect&color=080808&height=120&section=header&text=AMBET%20AZAM&fontColor=ffffff&fontSize=53&fontAlignY=55&desc=DevOps%20Software%20%7C%20Developer%20%7C%20Cybersecurity%20%7C%20AI&descAlignY=78&descSize=14"
     alt="Jean Steven"
   />
 </p>
 
 <p align="center">
-  <code>Software Engineering · DevOps · DevSecOps</code> •
+  <code>Software Engineering</code> •
+  <code>DevOps/code> •
+  <code>DevSecOps</code> •
   <code>Software Developer Engineer</code> •
   <code>Information Security Researcher</code> •
   <code>AI Developer</code> •
